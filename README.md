@@ -41,10 +41,15 @@ Visit http://localhost:3000 in your browser to see the live demo.
 This live demo covers the following key features of Next.js:
 
 -Server-Side Rendering (SSR)
+
 -Static Site Generation (SSG)
+
 -Automatic Code Splitting
+
 -File System Routing
+
 -API Routes
+
 -CSS-in-JS Support
 
 ## Built With
