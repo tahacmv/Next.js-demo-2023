@@ -25,7 +25,7 @@ cd Next.js-demo-2023
 npm installed
 ```
 
-3. Running the application
+### Running the application
 
 Start the Next.js development server:
 
@@ -36,7 +36,8 @@ npm run dev
 
 Visit http://localhost:3000 in your browser to see the live demo.
 
-Key Features
+## Key Features
+
 This live demo covers the following key features of Next.js:
 
 -Server-Side Rendering (SSR)
@@ -46,11 +47,11 @@ This live demo covers the following key features of Next.js:
 -API Routes
 -CSS-in-JS Support
 
-Built With
+## Built With
 
 Next.js - The React framework for production.
 React - A JavaScript library for building user interfaces.
 
 
-Author
+## Author
 MOTASSIM Ahmed Taha
